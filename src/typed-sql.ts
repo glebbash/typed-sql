@@ -5,6 +5,7 @@ export * from './typed-sql/conditions/and';
 export * from './typed-sql/conditions/eq';
 export * from './typed-sql/data-types';
 export * from './typed-sql/queries/create-table';
+export * from './typed-sql/queries/delete';
 export * from './typed-sql/queries/select';
 export * from './typed-sql/query';
 export * from './typed-sql/selector';
